@@ -1,0 +1,5 @@
+{
+  "name": "SIMES GÁS",
+  "description": "Monitoramento inteligente de gás via ESP32. Alertas de vazamento e nível crítico em tempo real.",
+  "requestFramePermissions": []
+}
